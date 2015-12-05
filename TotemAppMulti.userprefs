@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="TotemIos/TotemIos.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TotemAndroid/MainActivity.cs">
+    <Files>
+      <File FileName="TotemIos/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="TotemCore/MyClass.cs" Line="1" Column="1" />
+      <File FileName="TotemAndroid/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../Github/Git Bazookas/antwerpgiants-001/app/antwerpgiants/iOS/Bazookas/AntwerpGiants/Components/TableViewCells/GameTimelineTableViewCell.cs" line="139" offsetX="652" offsetY="1800" expression="_gameTimelineComponent.Game.CompetitionSeasonName" liveUpdate="False" />
+    <Watch file="../../../../Github/Git Bazookas/antwerpgiants-001/app/antwerpgiants/Bazookas/AntwerpGiants/BL/VO/LeaderboardTeamVO.cs" line="32" offsetX="566" offsetY="300" expression="Team.Name" liveUpdate="False" />
+    <Watch file="../../../../Github/Git Bazookas/antwerpgiants-001/app/antwerpgiants/Bazookas/AntwerpGiants/BL/VO/Timeline/PollTimelineVO.cs" line="35" offsetX="450" offsetY="420" expression="mvpSO.Poll.Question" liveUpdate="False" />
+    <Watch file="../../../../Github/Git Bazookas/antwerpgiants-001/app/antwerpgiants/iOS/Bazookas/AntwerpGiants/Components/TableViewCells/PollElementTableViewCell.cs" line="130" offsetX="465" offsetY="1620" expression="_answerComponent.Answer" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

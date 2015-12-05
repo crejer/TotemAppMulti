@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotemIos", "TotemIos\TotemIos.csproj", "{B659B4FE-83FE-4465-B695-7759D4229255}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TotemCore", "TotemCore\TotemCore.shproj", "{F57C7CD0-4FE6-4414-95AD-9970CBD7F22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotemAndroid", "TotemAndroid\TotemAndroid.csproj", "{134D8EA0-0ACC-4A0E-A689-0B6D16102C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug Android|Any CPU = Debug Android|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134D8EA0-0ACC-4A0E-A689-0B6D16102C87}.Debug Android|Any CPU.ActiveCfg = Debug Android|Any CPU
+		{134D8EA0-0ACC-4A0E-A689-0B6D16102C87}.Debug Android|Any CPU.Build.0 = Debug Android|Any CPU
+		{134D8EA0-0ACC-4A0E-A689-0B6D16102C87}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{134D8EA0-0ACC-4A0E-A689-0B6D16102C87}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{134D8EA0-0ACC-4A0E-A689-0B6D16102C87}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{134D8EA0-0ACC-4A0E-A689-0B6D16102C87}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{B659B4FE-83FE-4465-B695-7759D4229255}.Debug Android|Any CPU.ActiveCfg = Debug Android|Any CPU
+		{B659B4FE-83FE-4465-B695-7759D4229255}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B659B4FE-83FE-4465-B695-7759D4229255}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B659B4FE-83FE-4465-B695-7759D4229255}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B659B4FE-83FE-4465-B695-7759D4229255}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B659B4FE-83FE-4465-B695-7759D4229255}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B659B4FE-83FE-4465-B695-7759D4229255}.Release|iPhone.Build.0 = Release|iPhone
+		{B659B4FE-83FE-4465-B695-7759D4229255}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B659B4FE-83FE-4465-B695-7759D4229255}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
