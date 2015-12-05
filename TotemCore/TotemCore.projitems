@@ -11,4 +11,14 @@
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)MyClass.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)S&amp;GVlaanderen\" />
+    <Folder Include="$(MSBuildThisFileDirectory)S&amp;GVlaanderen\BL\" />
+    <Folder Include="$(MSBuildThisFileDirectory)S&amp;GVlaanderen\BLL\" />
+    <Folder Include="$(MSBuildThisFileDirectory)S&amp;GVlaanderen\DAL\" />
+    <Folder Include="$(MSBuildThisFileDirectory)S&amp;GVlaanderen\DL\" />
+    <Folder Include="$(MSBuildThisFileDirectory)S&amp;GVlaanderen\SAL\" />
+    <Folder Include="$(MSBuildThisFileDirectory)S&amp;GVlaanderen\SL\" />
+    <Folder Include="$(MSBuildThisFileDirectory)S&amp;GVlaanderen\Utils\" />
+  </ItemGroup>
 </Project>
